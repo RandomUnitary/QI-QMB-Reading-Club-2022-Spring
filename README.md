@@ -22,7 +22,7 @@ This reading club aims at following recent progress at the intersection of quant
     + [[2102.00010] Many-body quantum teleportation via operator spreading in the traversable wormhole protocol (arxiv.org)](https://arxiv.org/abs/2102.00010)
 + Topic: random-matrix theory (RMT)
   + Speaker: Yuxuan Yan
-  + Ref: [[1510.04430v2] Random matrices (arxiv.org)](https://arxiv.org/abs/1510.04430v2)
+  + Reference: [[1510.04430v2] Random matrices (arxiv.org)](https://arxiv.org/abs/1510.04430v2)
   + Notes: [RMT.pdf](materials/RMT.pdf)
 
 ### 2022-04-09
