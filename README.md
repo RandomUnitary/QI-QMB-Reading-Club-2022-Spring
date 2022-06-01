@@ -2,6 +2,50 @@
 
 This reading club aims at following recent progress at the intersection of quantum information (QI) and quantum many-body (QMB) physics.
 
-## Talking List
+## Talk List
 
-+ [2022-03-12]
+### 2022-03-12
+
++ Topic: measurement-induced phase transition (MIPT)
+
+  + Speaker: Yi Tan, Yuxuan Yan
+
+  + Reference:
+    + [Phys. Rev. B 101, 104302 (2020) - Measurement-induced criticality in random quantum circuits (aps.org)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.101.104302)
+    + [Phys. Rev. Lett. 128, 010604 (2022) - Measurement-Induced Transition in Long-Range Interacting Quantum Circuits (aps.org)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.128.010604)
+
+### 2022-03-26
+
++ Topic: Hayden-Preskill protocol
+  + Speaker: Yi Tan
+  + Ref:
+    + [Black holes as mirrors: quantum information in random subsystems - IOPscience](https://iopscience.iop.org/article/10.1088/1126-6708/2007/09/120)
+    + [[2102.00010] Many-body quantum teleportation via operator spreading in the traversable wormhole protocol (arxiv.org)](https://arxiv.org/abs/2102.00010)
+
++ Topic: random-matrix theory (RMT)
+  + Speaker: Yuxuan Yan
+  + Ref: [[1510.04430v2] Random matrices (arxiv.org)](https://arxiv.org/abs/1510.04430v2)
+
+### 2022-04-09
+
++ Topic: randomized measurement
+  + Speaker: Qi Huang
+  + Ref: [[2203.11374] The randomized measurement toolbox (arxiv.org)](https://arxiv.org/abs/2203.11374)
+
+### 2022-04-30
+
++ Topic: SPT on NISQ
+  + Speaker: Sijing Du
+  + Ref: [Phys. Rev. Lett. 125, 120502 (2020) - Identification of Symmetry-Protected Topological States on Noisy Quantum Computers (aps.org)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.125.120502)
++ Topic: FermiNet
+  + Speaker: Chenbing Wang
+  + Ref: [Phys. Rev. Research 2, 033429 (2020) - Ab initio solution of the many-electron Schrodinger equation with deep neural networks (aps.org)](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.2.033429)
+
+### 2022-05-14
+
++  Topic: MIPT experiment
+  + Speaker: Tianyu Wu
+  + Ref: [[2203.04338] Experimental Realization of a Measurement-Induced Entanglement Phase Transition on a Superconducting Quantum Processor (arxiv.org)](https://arxiv.org/abs/2203.04338)
++ Topic: Linbladian dynamics for MIPT
+  + Speaker: Yuxuan Yan
+  + Ref: [[2204.09049] Generalized Lindblad Master Equation for Measurement-induced Phase Transition (arxiv.org)](http://export.arxiv.org/abs/2204.09049)
