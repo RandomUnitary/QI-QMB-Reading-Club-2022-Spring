@@ -3,3 +3,5 @@
 This reading club aims at following recent progress at the intersection of quantum information (QI) and quantum many-body (QMB) physics.
 
 ## Talking List
+
++ [2022-03-12]
