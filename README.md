@@ -43,8 +43,8 @@ This reading club aims at following recent progress at the intersection of quant
 ### 2022-05-14
 
 +  Topic: MIPT experiment
-  +  Speaker: Tianyu Wu
-  +  Reference: [[2203.04338] Experimental Realization of a Measurement-Induced Entanglement Phase Transition on a Superconducting Quantum Processor (arxiv.org)](https://arxiv.org/abs/2203.04338)
+  + Speaker: Tianyu Wu
+  + Reference: [[2203.04338] Experimental Realization of a Measurement-Induced Entanglement Phase Transition on a Superconducting Quantum Processor (arxiv.org)](https://arxiv.org/abs/2203.04338)
 +  Topic: Linbladian dynamics for MIPT
   + Speaker: Yuxuan Yan
   + Reference: [[2204.09049] Generalized Lindblad Master Equation for Measurement-induced Phase Transition (arxiv.org)](https://arxiv.org/abs/2204.09049)
