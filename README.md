@@ -48,3 +48,4 @@ This reading club aims at following recent progress at the intersection of quant
 + Topic: Linbladian dynamics for MIPT
   + Speaker: Yuxuan Yan
   + Reference: [[2204.09049] Generalized Lindblad Master Equation for Measurement-induced Phase Transition (arxiv.org)](https://arxiv.org/abs/2204.09049)
++ [Recording.](https://www.bilibili.com/video/BV1L341137z1?share_source=copy_web)
