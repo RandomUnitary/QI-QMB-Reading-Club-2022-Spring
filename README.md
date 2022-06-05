@@ -49,3 +49,10 @@ This reading club aims at following recent progress at the intersection of quant
   + Speaker: Yuxuan Yan
   + Reference: [[2204.09049] Generalized Lindblad Master Equation for Measurement-induced Phase Transition (arxiv.org)](https://arxiv.org/abs/2204.09049)
 + [Recording.](https://www.bilibili.com/video/BV1L341137z1?share_source=copy_web)
+
+### 2022-06-04
+
++ Topic: An intro to Quantum Monte Carlo and Sign Problem
+  + Speaker: Zeyao Han
+  + Notes: [notes.pdf](materials/QMC&sign-problem_20220604notes.pdf)
++ Recording pending
